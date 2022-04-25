@@ -7,9 +7,11 @@ import React from 'react';
 import HomeScreen from './screens/HomeScreen'
 import RepetitionExerciseScreen from './screens/RepetitionExerciseScreen';
 import DurationExerciseScreen from './screens/DurationExerciseScreen';
+import WeightRepetitionScreen from './screens/WeightRepetitionScreen';
 
 export const DURATION_EXERCISE = "DurationExerciseScreen"
 export const REPETITION_EXERCISE = "RepetitionExerciseScreen"
+export const WEIGHT_REPETITION = "WeightRepetitionScreen"
 
 let exerciseList = [
     {
@@ -28,8 +30,20 @@ let exerciseList = [
     name: "Running",
     key: "3",
     type: DURATION_EXERCISE,
-    suggestedNextExercise: "1"
+    suggestedNextExercise: "4"
   },
+  {
+    name: "Dumbbells",
+    key: "4",
+    type: WEIGHT_REPETITION,
+    suggestedNextExercise: "5"
+  },
+  {
+    name: "Deadlifts",
+    key: "5",
+    type: WEIGHT_REPETITION,
+    suggestedNextExercise: "1"
+  }
 ]
 
 export const ExerciseContext = React.createContext(exerciseList)
@@ -55,6 +69,12 @@ export default function App() {
         route.params.exerciseList.find(ex => ex.key === route.params.exerciseKey).name
       }))} 
         name= {DURATION_EXERCISE} component={DurationExerciseScreen}/>
+        <Stack.Screen 
+        options ={(({route}) => ({
+          title: "Weight Repetition: " + 
+        route.params.exerciseList.find(ex => ex.key === route.params.exerciseKey).name
+      }))} 
+        name= {WEIGHT_REPETITION} component={WeightRepetitionScreen}/>
       </Stack.Navigator>
     </NavigationContainer>
     </ExerciseContext.Provider>
