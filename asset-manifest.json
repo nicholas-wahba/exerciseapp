@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/exerciseapp/static/js/app.219b553e.chunk.js",
+    "app.js.map": "/exerciseapp/static/js/app.219b553e.chunk.js.map",
+    "runtime~app.js": "/exerciseapp/static/js/runtime~app.6c99fd16.js",
+    "runtime~app.js.map": "/exerciseapp/static/js/runtime~app.6c99fd16.js.map",
+    "static/js/2.5d75b961.chunk.js": "/exerciseapp/static/js/2.5d75b961.chunk.js",
+    "static/js/2.5d75b961.chunk.js.map": "/exerciseapp/static/js/2.5d75b961.chunk.js.map",
+    "fonts/AntDesign.ttf": "/exerciseapp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/exerciseapp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/exerciseapp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/exerciseapp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/exerciseapp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/exerciseapp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/exerciseapp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/exerciseapp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/exerciseapp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/exerciseapp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/exerciseapp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/exerciseapp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/exerciseapp/favicon-16.png",
+    "favicon-32.png": "/exerciseapp/favicon-32.png",
+    "favicon.ico": "/exerciseapp/favicon.ico",
+    "index.html": "/exerciseapp/index.html",
+    "manifest.json": "/exerciseapp/manifest.json",
+    "serve.json": "/exerciseapp/serve.json",
+    "static/js/2.5d75b961.chunk.js.LICENSE.txt": "/exerciseapp/static/js/2.5d75b961.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/exerciseapp/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/exerciseapp/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/exerciseapp/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/exerciseapp/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6c99fd16.js",
+    "static/js/2.5d75b961.chunk.js",
+    "static/js/app.219b553e.chunk.js"
+  ]
+}
