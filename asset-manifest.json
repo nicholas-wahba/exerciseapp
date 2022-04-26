@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/exerciseapp/static/js/app.41ae107b.chunk.js",
-    "app.js.map": "/exerciseapp/static/js/app.41ae107b.chunk.js.map",
+    "app.js": "/exerciseapp/static/js/app.23eecaa4.chunk.js",
+    "app.js.map": "/exerciseapp/static/js/app.23eecaa4.chunk.js.map",
     "runtime~app.js": "/exerciseapp/static/js/runtime~app.6c99fd16.js",
     "runtime~app.js.map": "/exerciseapp/static/js/runtime~app.6c99fd16.js.map",
     "static/js/2.e06705c2.chunk.js": "/exerciseapp/static/js/2.e06705c2.chunk.js",
@@ -33,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime~app.6c99fd16.js",
     "static/js/2.e06705c2.chunk.js",
-    "static/js/app.41ae107b.chunk.js"
+    "static/js/app.23eecaa4.chunk.js"
   ]
 }
