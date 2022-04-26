@@ -4,7 +4,7 @@ import {FlatList, StyleSheet, View } from "react-native"
 import { Button, Text} from "react-native-elements"
 import { ExerciseContext, WEIGHT_REPETITION, styles } from "../App"
 
-export default function RepetitionExerciseScreen({route, navigation}){
+export default function WeightRepetitionScreen({route, navigation}){
   let {exerciseKey} = route.params
   let [count, setCount] = useState(0)
   let exerciseList = useContext(ExerciseContext)
