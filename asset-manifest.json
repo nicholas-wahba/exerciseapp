@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/exerciseapp/static/js/app.219b553e.chunk.js",
-    "app.js.map": "/exerciseapp/static/js/app.219b553e.chunk.js.map",
+    "app.js": "/exerciseapp/static/js/app.41ae107b.chunk.js",
+    "app.js.map": "/exerciseapp/static/js/app.41ae107b.chunk.js.map",
     "runtime~app.js": "/exerciseapp/static/js/runtime~app.6c99fd16.js",
     "runtime~app.js.map": "/exerciseapp/static/js/runtime~app.6c99fd16.js.map",
-    "static/js/2.5d75b961.chunk.js": "/exerciseapp/static/js/2.5d75b961.chunk.js",
-    "static/js/2.5d75b961.chunk.js.map": "/exerciseapp/static/js/2.5d75b961.chunk.js.map",
+    "static/js/2.e06705c2.chunk.js": "/exerciseapp/static/js/2.e06705c2.chunk.js",
+    "static/js/2.e06705c2.chunk.js.map": "/exerciseapp/static/js/2.e06705c2.chunk.js.map",
     "fonts/AntDesign.ttf": "/exerciseapp/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/exerciseapp/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/exerciseapp/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/exerciseapp/index.html",
     "manifest.json": "/exerciseapp/manifest.json",
     "serve.json": "/exerciseapp/serve.json",
-    "static/js/2.5d75b961.chunk.js.LICENSE.txt": "/exerciseapp/static/js/2.5d75b961.chunk.js.LICENSE.txt",
+    "static/js/2.e06705c2.chunk.js.LICENSE.txt": "/exerciseapp/static/js/2.e06705c2.chunk.js.LICENSE.txt",
     "static/media/bell.png": "/exerciseapp/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/exerciseapp/static/media/heart.23b5c2c0.png",
     "static/media/rocket.png": "/exerciseapp/static/media/rocket.d2f3bf41.png",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.6c99fd16.js",
-    "static/js/2.5d75b961.chunk.js",
-    "static/js/app.219b553e.chunk.js"
+    "static/js/2.e06705c2.chunk.js",
+    "static/js/app.41ae107b.chunk.js"
   ]
 }
