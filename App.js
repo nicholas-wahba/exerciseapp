@@ -1,3 +1,9 @@
+//For Portfolio 2, I've decided to go for Option 1.1
+//The goal of this option was to create additional or redesign current components
+//For this particular lab, I've decided to add another "screen" to this exercise app done in Lab 8
+//In which the primary goal of the "WeightRepetitionScreen" is primary counting how many reps
+//an individual does when lifting weights/doing exercises with weights. 
+
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { StatusBar } from 'expo-status-bar';
